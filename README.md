@@ -1,3 +1,5 @@
+*[Course Assignments & Due Dates](https://github.com/cs4241-20a/cs4241-20a.github.io/blob/main/cal.md)*
+
 Course Description
 ---
 
