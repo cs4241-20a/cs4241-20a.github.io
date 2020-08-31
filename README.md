@@ -30,11 +30,17 @@ Assignments
 ---
 Assignments are the core of this course. Each assignment will focus on a particular aspect of web development, such as database integration, realtime communication technologies, or server development. Assignment are due by the start of class on the date listed on the calendar, e.g. if the due date is on a Thursday, the assignment is due by 11:59AM Thursday.
 
-Programming Language
+Programming Languages
 ---
 
 We'll be primarily using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) with [node.js](http://nodejs.org/) to develop web applications in this course. While JavaScript is the main language for front-end web application development, there are a variety of choices for back-end languages. Java, Python, Ruby, and many other languages have HTTP support. 
 We'll be using node.js for simplicity and consistency across client / server development.
+
+Development Tools
+---
+You can use whatever editor you like in this class. I primarily use vim alongside tmux in the terminal, and it is nice to know this combination if you anticipate doing a lot of remote server programming, as every Linux / macOS server (and increasingly Windows as well) will have these tools installed.
+
+But if you've never used vim, I recommend using [VSCode](https://code.visualstudio.com), which is free and available for most platforms. In class, I'll VSCode for most demos.
 
 Discussion / Questions
 ---
