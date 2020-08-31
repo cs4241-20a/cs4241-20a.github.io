@@ -7,7 +7,7 @@ Topics include: web scripting and markup languages, design of browser-based inte
 All students will complete a *full-stack* (client + server + database integration) application as a final group project in the course; in addition, several smaller assignments (completed individually) will also emphasize full stack development.
 
 Students will be expected to use Git in this class and many assignments will be turned in using GiHub. Please begin familiarizing yourselves with 
-Git if you don't have prior experience with it; it will not be taught in the class. The course TAs may be able to provide help wih Git for those who need it.
+Git if you don't have prior experience with it; it will not be taught in the class. The course TAs may be able to provide help with Git for those who need it.
 
 Learning Goals
 ---
@@ -17,11 +17,11 @@ After successful completion of this course, you will be able to:
 - Critically evaluate and deconstruct web applications.
 - Identify opportunities for web-based resources and APIs in your organization.
 - Evaluate the characteristics and structure of web applications you encounter to refine design options.
-- Create functional and accesible web applications, including front-end and back-end components.
+- Create functional and accessible web applications, including front-end and back-end components.
 
 Required Texts
 ---
-There are no required texts for this course. Required readings will be taken from various online resoures. For those who can't wait to start digging into JavaScript:
+There are no required texts for this course. Required readings will be taken from various online resources. For those who can't wait to start digging into JavaScript:
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is rapidly becoming one of the most popular JavaScript books on the web.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is where most of our assigned readings on JavaScript will come from.
@@ -68,7 +68,7 @@ Unless otherwise noted, meeting the minimum requirements for an assignment earns
 You may earn up to additional 20 (10+10) points via __Technical Achievements__ and __Design/Evaluation Achievements__.
 Achievements are an opportunity for you to take an active role in your learning and assessment.  Achievement points can both boost your grade up to an A and also make up for points that you might have lost in regards to the minimum requirements.
 
-For example, let's say your base grade was an 80%, which would mean that you were docked 6% off the minimum assignment requiremenst. If you then completed 6 points of technical acheivements and 4 points of design acheivements, you would receive an 90% (A) on the assignment. *The maximum grade for any one assignment is 100%*, even if you get a perfect score on the minimum requirements and both achievements.
+For example, let's say your base grade was an 80%, which would mean that you were docked 6% off the minimum assignment requirements. If you then completed 6 points of technical achievements and 4 points of design achievements, you would receive an 90% (A) on the assignment. *The maximum grade for any one assignment is 100%*, even if you get a perfect score on the minimum requirements and both achievements.
 
 A technical achievement might be: substantial additions to the project requirements, a particularly robust algorithm, non-trivial use of outside frameworks and libraries.
 
@@ -92,7 +92,7 @@ Students are likewise forbidden from facilitating other students, current or fut
 Students may not distribute their code publicly on the Internet, or in other means, during the term or even after the class has concluded. 
 Students may share their code with potential employers or other individuals privately, so long as the code would not become available to other WPI students.
 
-Collaboration is, however, encouraged in this class. There are many ways in which you can assist others without giving them code and answers. Please feel free to answer low-level coding questions and to help your classmaets troubleshoot their code. But do not provide significant chunks of code; for example, providing an entire server that you've writen is not allowed.
+Collaboration is, however, encouraged in this class. There are many ways in which you can assist others without giving them code and answers. Please feel free to answer low-level coding questions and to help your classmates troubleshoot their code. But do not provide significant chunks of code; for example, providing an entire server that you've written is not allowed.
 
 Acknowledgements
 ---
