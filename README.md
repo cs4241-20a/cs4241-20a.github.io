@@ -1,5 +1,11 @@
 *[Course Assignments & Due Dates](https://github.com/cs4241-20a/cs4241-20a.github.io/blob/main/cal.md)*
 
+Course Staff
+---
+*Instructor*: Charlie Roberts (@cdroberts)  
+*TA*: Ari Kundu (@akundu)
+*TA*: Yiyang Zhao (@yzhao10)
+
 Course Description
 ---
 
