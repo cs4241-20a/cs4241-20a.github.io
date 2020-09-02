@@ -2,9 +2,14 @@
 
 Course Staff
 ---
-*Instructor*: Charlie Roberts (@cdroberts)  
+*Instructor*: Charlie Roberts (@cdroberts)
 *TA*: Ari Kundu (@akundu)  
 *TA*: Yiyang Zhao (@yzhao10)
+
+Office Hours
+---
+Monday through Friday 11AM–1PM w/ Ari  
+Friadys 1–3PM w/ Charlie
 
 Course Description
 ---
