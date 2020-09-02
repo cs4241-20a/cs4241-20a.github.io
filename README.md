@@ -2,7 +2,7 @@
 
 Course Staff
 ---
-*Instructor*: Charlie Roberts (@cdroberts)
+*Instructor*: Charlie Roberts (@cdroberts)  
 *TA*: Ari Kundu (@akundu)  
 *TA*: Yiyang Zhao (@yzhao10)
 
