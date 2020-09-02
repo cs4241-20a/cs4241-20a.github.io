@@ -8,8 +8,11 @@ Course Staff
 
 Office Hours
 ---
-Monday through Friday 11AM–1PM w/ Ari  
-Friadys 1–3PM w/ Charlie
+Monday: 2–4 PM w/Ari  
+Tuesday: 11AM–1 PM w/Ari  
+Wednesday: 11AM–1 PM w/Ari  
+Thursday: 2–4 PM w/Ari  
+Friday: 11–1 PM w/Ari, 1PM–3PM w/Charlie
 
 Course Description
 ---
