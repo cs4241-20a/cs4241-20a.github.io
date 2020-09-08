@@ -15,3 +15,12 @@ Readings:
 Play:  
 - [Flexbox Froggy](https://flexboxfroggy.com/) (due 09-10)  
 - [CSS Grid Garden](https://cssgridgarden.com/) (due 09-10)  
+
+*Week of 9-7*  
+Topic: Client/Server interaction & JavaScript basics  
+Development Assignment: [A2](https://github.com/cs4241-20a/a2-shortstack) (due 9-16)  
+Readings (due by your discussion section time the week of 9-14):  
+- [Chapters 1,2, and 3 from You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20%26%20closures) (this will probably take a minimum of three hours)
+- [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web/)
+- [Get Started with Debugging in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+- [How to Pause Your Code with Breakpoints in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
