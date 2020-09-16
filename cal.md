@@ -24,3 +24,14 @@ Readings (due by your discussion section time the week of 9-14):
 - [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web/)
 - [Get Started with Debugging in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
 - [How to Pause Your Code with Breakpoints in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
+
+*Week of 9-14*  
+Topic: Database access, graphic design, and JavaScript prototypes  
+Development Assignment: [A2](https://github.com/cs4241-20a/a2-shortstack) (due 9-16)  
+A3 will be posted after the A2 deadline  
+Readings (due by your discussion section time the week of 9-21):  
+- [CSS Layout](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
+- [Chapters 4 & 5 from You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20%26%20closures)
+- [Chapters 1,2, and 3 from You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
+- [JavaScript Promises in Sixteen Minutes](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887)
+- [Chapters 1–6 of the Non-Designer's Design Book](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9936734734504746&context=L&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,non-designer%27s%20design%20book&sortby=rank&mode=basic)
