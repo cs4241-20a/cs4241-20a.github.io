@@ -29,7 +29,7 @@ Readings (due by your discussion section time the week of 9-14):
 Topic: Database access, graphic design, and JavaScript prototypes  
 Development Assignment: 
 - [A2](https://github.com/cs4241-20a/a2-shortstack) (due 9-16)
-- [A3](https://github.com/cs4241-20a/a3-persisteenec) (due 9-28)
+- [A3](https://github.com/cs4241-20a/a3-persistence) (due 9-28)
 
 Readings (due by your discussion section time the week of 9-21):  
 - [CSS Layout](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
