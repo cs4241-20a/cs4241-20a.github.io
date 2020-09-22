@@ -37,3 +37,12 @@ Readings (due by your discussion section time the week of 9-21):
 - [Chapters 1,2, and 3 from You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
 - [JavaScript Promises in Sixteen Minutes](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887)
 - [Chapters 1–6 of the Non-Designer's Design Book](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9936734734504746&context=L&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,non-designer%27s%20design%20book&sortby=rank&mode=basic)
+
+*Week of 9/21*
+Topics: CSS Frameworks, Object-Oriented JavaScript, Prototypes, Aesthetics  
+Development Assignment: 
+- [A3 (continued)](https://github.com/cs4241-20a/a3-persistence) (due 9-28)
+
+Readings (due by your discussion section time the week of 9-28):  
+- [10 Best CSS Frameworks for Frontend Developers](https://geekflare.com/best-css-frameworks/)
+- [Chapters 4,5 & 6 from You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
