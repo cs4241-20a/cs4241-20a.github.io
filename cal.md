@@ -46,7 +46,6 @@ Development Assignment:
 Readings (due by your discussion section time the week of 9-28):  
 - [10 Best CSS Frameworks for Frontend Developers](https://geekflare.com/best-css-frameworks/)
 - [Chapters 4,5 & 6 from You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
-- [The ES6 Guide](https://flaviocopes.com/es6/)
 - [Chapters 1 & 2 from You Don't Know JS:ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20%26%20beyond)
 
 Watch:  
