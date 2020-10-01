@@ -50,3 +50,10 @@ Readings (due by your discussion section time the week of 9-28):
 
 Watch:  
 - [Rich Harris - Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
+
+*Week of 9/28*
+Development Assignment (*choose one*):
+- [A4: Creative Coding](https://github.com/cs4241-20a/a3-persistence) (due 10-9)
+- [A4: Components](https://github.com/cs4241-20a/a3-persistence) (due 10-9)
+
+[Final Project](https://github.com/cs4241-20a/final-project)
