@@ -13,7 +13,7 @@ const todos = [
 app.use( bp.json() )
 app.use( express.static( 'public' ) )
 
-app.get( '/read', ( req, res ) => req.json( todos ) )
+app.get( '/read', ( req, res ) => res.json( todos ) )
 
 app.post( '/add', ( req,res ) => {
   todos.push( req.body )
@@ -21,7 +21,7 @@ app.post( '/add', ( req,res ) => {
 })
 
 app.post( '/change', function( req,res ) {
-  const idx = todos.find( v => v.name === req.body.name )
+  const idx = todos.findIndex( v => v.name === req.body.name )
   todos[ idx ].completed = req.body.completed
   
   res.sendStatus( 200 )
@@ -106,6 +106,8 @@ Here's where the magic happens:
     })
     .then( response => response.json() )
   }
+  
+  let promise = getTodos()
   </script>
 
 
@@ -160,8 +162,7 @@ In the above code we're adding the `addTodo` function and a button that triggers
   }
 
   let promise = getTodos()
-</script>`.
-
+</script>
 
 <input type='text' />
 <button on:click={addTodo}>add todo</button>
