@@ -125,7 +125,7 @@ Here's where the magic happens:
 {/await}
 ```
 
-In the above code we're adding the `addTodo` function and a button that triggers it. The magic is that, simply by redefining our `promise`. our list is recreated everytime we a new todo. The UI is *reactive* to changes in the underlying data. OK, let's finish by adding a checkbox to toggle whether each todo item has been completed.
+In the above code we're adding the `addTodo` function and a button that triggers it. The magic is that, simply by redefining our `promise`. our list is recreated everytime we add a new todo. The UI is *reactive* to changes in the underlying data. OK, let's finish by adding a checkbox to toggle whether each todo item has been completed.
 
 
 ```html
