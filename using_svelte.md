@@ -77,7 +77,7 @@ A file to load/display data from our server:
 
 The part inside the `<script>` tag should look fairly normal. Outside of it is pretty weird looking though. The first line `{#await promise then todos}` basically is saying. Additionally, it's also saying "Everytime the promise resolves (re)create this list." Then, we start an unordered list `<ul>`. Next we're saying "for each todo in our todos variable, create a list item." We can see that we can insert JavaScript expressions inside of the `{}` characters, similar to how in ES6 we can put them expressions between `${ }` inside of template strings.
   
-If you look at the `package.json` file included in the template, you'll see there's a `build` script. Use `npm run build` to compile the Svelte application (make sure you run `npm i` before compiling for the first time).
+If you look at the `package.json` file included in the template, you'll see there's a `build` script. Use `npm run build` to compile the Svelte application (make sure you run `npm i` before compiling for the first time). You'll also need to install the `express` and `body-parser` packages, and then start the server using `node server.js`.
   
 ## adding new todos (reactive programming)
 Here's where the magic happens:
